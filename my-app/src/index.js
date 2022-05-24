@@ -21,6 +21,7 @@ class Board extends React.Component {
 
     return (
       <div>
+        <div className="title">俺たちの伝説が今始まる...</div>
         <div className="status">{status}</div>
         <div className="board-row">
           {this.renderSquare(0)}

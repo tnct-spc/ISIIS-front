@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ISIIS-front/static/css/main.22941023.css",
+    "main.js": "/ISIIS-front/static/js/main.9434c7e1.js",
+    "index.html": "/ISIIS-front/index.html",
+    "main.22941023.css.map": "/ISIIS-front/static/css/main.22941023.css.map",
+    "main.9434c7e1.js.map": "/ISIIS-front/static/js/main.9434c7e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.9434c7e1.js"
+  ]
+}
